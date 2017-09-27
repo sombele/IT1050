@@ -8,7 +8,7 @@ namespace Lab1
         {
             Console.Write("Please Enter Your First Name: ");
             string firstName = Console.ReadLine();
-            Console.Write("korndiolle: ");
+            Console.Write("Please Enter Your Middle Initial: ");
             char korndiolle = char.Parse(Console.ReadLine());
             Console.Write("ndour: ");
             string ndour = Console.ReadLine();

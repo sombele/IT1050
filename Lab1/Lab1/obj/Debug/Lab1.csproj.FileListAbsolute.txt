@@ -5,3 +5,7 @@ C:\Users\sombele\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 C:\Users\sombele\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
 C:\Users\sombele\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
 C:\Users\sombele\Desktop\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\sombele\Desktop\IT1050\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\sombele\Desktop\IT1050\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\sombele\Desktop\IT1050\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\sombele\Desktop\IT1050\Lab1\Lab1\obj\Debug\Lab1.pdb

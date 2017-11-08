@@ -20,12 +20,23 @@ namespace Lab1
             double heightInches = 0;
             double totalHeightInches = (heightinFeet * 12) + heightInches;
             double heightInCM = totalHeightInches * 2.54;
-            
-            bool isCitizen = true;
-            int age = 25;
-            bool canVote = isCitizen && age >= 21;
 
-            Console.WriteLine(fullName);
+            Console.WriteLine(" please enter your age");
+            int age = int.Parse(System.Console.ReadLine());
+            Console.WriteLine("please answer if you are  citizen");
+            bool iscitizen = bool.Parse(System.Console.ReadLine());
+            Console.WriteLine("Rule for your voter eligibility?");
+            bool CanVote = bool.Parse(System.Console.ReadLine());
+            
+           
+            
+
+            Console.WriteLine("Please enter your fullName");
+            String FullName = firstName + " " + middlename + " " + lastname;
+            Console.WriteLine(" Please enter your totalHeightCM");
+            double heightCM = totalHeightInches * 2.54;
+            Console.Write("Eligibility of you canVote?");
+            bool CanVote = iscitizen && age >= 18;
             System.Threading.Thread.Sleep(3000);
         }
     }
